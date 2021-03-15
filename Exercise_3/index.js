@@ -28,7 +28,5 @@ class pelajar extends orang {
         console.log(`${this.nama}belajar di ${this.namasekolah}`);
     }
 }
-
 const user = new pelajar ("John ","17","Unklab");
-
 user.belajar();
